@@ -34,14 +34,6 @@ This portfolio website serves as a platform to present my work, share my skills,
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactive features.
-- **[Tailwind CSS](https://tailwindcss.com/)**: For utility-first CSS styling.
 - **[GitHub Pages](https://pages.github.com/)**: For hosting the website.
 
-## Setup and Installation
 
-To run this project locally, follow these steps:
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.c
