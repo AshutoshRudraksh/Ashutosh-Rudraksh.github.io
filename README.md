@@ -37,3 +37,13 @@ This portfolio website serves as a platform to present my work, share my skills,
 - **[GitHub Pages](https://pages.github.com/)**: For hosting the website.
 
 
+**Instructions for Use:**
+
+- **Replace Placeholder Text**: Substitute `Ashutosh-Rudraks`, `rudraksh.1@osu.edu`, or my LinkedIn: `https://www.linkedin.com/in/ashutosh1100`
+- **Update Project Links**: Ensure that all links to projects, demos, and social profiles are accurate and functional.
+- **Customize Sections**: Add or remove sections as needed to reflect the content and structure of your portfolio.
+
+By following this template, you'll provide visitors with a clear understanding of your portfolio website, its purpose, and how they can interact with or contribute to it.
+
+ 
+
