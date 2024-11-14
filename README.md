@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my personal portfolio website! This site showcases my projects, skills, and provides information about me.
+Computer science portfolio website template. It's built with HTML, CSS/SASS/SCSS, and JavaScript. No framework or libraries are required!
 
 ## Table of Contents
 
